@@ -1,3 +1,4 @@
-com\mycompany\teatromoro\Ticket.class
-com\mycompany\teatromoro\TeatroMoro.class
-com\mycompany\teatromoro\TeatroMoro$1.class
+com\mycompany\teatromorogestion\TeatroMoroGestion.class
+com\mycompany\teatromorogestion\Entrada.class
+com\mycompany\teatromorogestion\Reserva.class
+com\mycompany\teatromorogestion\Cliente.class
