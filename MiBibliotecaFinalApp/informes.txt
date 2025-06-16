@@ -1,0 +1,46 @@
+--- Informe de Libros ---
+Titulo: Cien Años de Soledad, Autor: Gabriel García Márquez, Prestado: No
+Titulo: Don Quijote de la Mancha, Autor: Miguel de Cervantes, Prestado: No
+Titulo: Cien Años de Soledad, Autor: Gabriel Garcia Marquez, Prestado: No
+Titulo: Don Quijote de la Mancha, Autor: Miguel de Cervantes, Prestado: No
+Titulo: Cien Años de Soledad, Autor: Gabriel Garcia Marquez, Prestado: No
+Titulo: Don Quijote de la Mancha, Autor: Miguel de Cervantes, Prestado: No
+Titulo: Cien Años de Soledad, Autor: Gabriel Garcia Marquez, Prestado: No
+Titulo: Don Quijote de la Mancha, Autor: Miguel de Cervantes, Prestado: No
+Titulo: Cien Años de Soledad, Autor: Gabriel Garcia Marquez, Prestado: No
+Titulo: Don Quijote de la Mancha, Autor: Miguel de Cervantes, Prestado: No
+Titulo: Cien Anos de Soledad, Autor: Gabriel Garcia Marquez, Prestado: No
+Titulo: Don Quijote de la Mancha, Autor: Miguel de Cervantes, Prestado: No
+Titulo: Cien Anos de Soledad, Autor: Gabriel Garcia Marquez, Prestado: No
+Titulo: Don Quijote de la Mancha, Autor: Miguel de Cervantes, Prestado: No
+Titulo: Cien Anos de Soledad, Autor: Gabriel Garcia Marquez, Prestado: No
+Titulo: Don Quijote de la Mancha, Autor: Miguel de Cervantes, Prestado: No
+Titulo: cien anos de soledad, Autor: Gabriel garcia marques, Prestado: No
+Titulo: Cien Anos de Soledad, Autor: Gabriel Garcia Marquez, Prestado: No
+Titulo: Don Quijote de la Mancha, Autor: Miguel de Cervantes, Prestado: No
+Titulo: Cien Anos de Soledad, Autor: Gabriel Garcia Marquez, Prestado: No
+Titulo: Don Quijote de la Mancha, Autor: Miguel de Cervantes, Prestado: No
+Titulo: Don Quijote de la Mancha, Autor: Miguel de Cervantes, Prestado: No
+Titulo: Cien Anos de Soledad, Autor: Gabriel Garcia Marquez, Prestado: No
+Titulo: Don Quijote de la Mancha, Autor: Miguel de Cervantes, Prestado: No
+Titulo: Cien Anos de Soledad, Autor: Gabriel Garcia Marquez, Prestado: No
+Titulo: Don Quijote de la Mancha, Autor: Miguel de Cervantes, Prestado: No
+Titulo: Palomita Blanca , Autor: Enrique Lafourcade, Prestado: No
+Titulo: Palomita Blanca, Autor: Enrique Lafourcade, Prestado: No
+Titulo: Cien Anos de Soledad, Autor: Gabriel Garcia Marquez, Prestado: No
+Titulo: Don Quijote de la Mancha, Autor: Miguel de Cervantes, Prestado: No
+Titulo: Cien Anos de Soledad, Autor: Gabriel Garcia Marquez, Prestado: No
+Titulo: Don Quijote de la Mancha, Autor: Miguel de Cervantes, Prestado: No
+Titulo: Cien Anos de Soledad, Autor: Gabriel Garcia Marquez, Prestado: No
+Titulo: Don Quijote de la Mancha, Autor: Miguel de Cervantes, Prestado: No
+Titulo: Los reemplazantes, Autor: Renato Garin Gonzalez, Prestado: No
+Titulo: Cien Anos de Soledad, Autor: Gabriel Garcia Marquez, Prestado: No
+Titulo: Don Quijote de la Mancha, Autor: Miguel de Cervantes, Prestado: No
+Titulo: Los reemplazantes, Autor: Renato Garin Gonzalez, Prestado: No
+Titulo: Te Receto Un Gato, Autor: ISHIDA, SYOU, Prestado: No
+Titulo: Te Receto Un Gato, Autor: ISHIDA, SYOU, Prestado: No
+
+--- Informe de Usuarios ---
+ID Usuario: U002, Nombre: Juan Gómez
+ID Usuario: U001, Nombre: Ana Pérez
+ID Usuario: Juan, Nombre: Juan
