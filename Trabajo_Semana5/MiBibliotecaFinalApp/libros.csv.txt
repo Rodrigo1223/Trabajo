@@ -1,0 +1,3 @@
+El Gran Gatsby,F. Scott Fitzgerald,false
+Cien años de soledad,Gabriel García Márquez,false
+Don Quijote de la Mancha,Miguel de Cervantes,true
