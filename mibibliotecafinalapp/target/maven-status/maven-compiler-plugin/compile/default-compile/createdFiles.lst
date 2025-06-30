@@ -1,0 +1,5 @@
+com\mycompany\mibibliotecafinalapp\Comic.class
+com\mycompany\mibibliotecafinalapp\ComicCollectorSystem.class
+com\mycompany\mibibliotecafinalapp\Usuario.class
+com\mycompany\mibibliotecafinalapp\ComicNoEncontradoException.class
+com\mycompany\mibibliotecafinalapp\ComicYaPrestadoException.class

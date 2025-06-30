@@ -1,0 +1,8 @@
+--- Informe de Comics ---
+Titulo: 'Watchmen', Autor: 'Alan Moore', Genero: 'Superhéroes', Fecha Publicacion: '1986-09-01', Precio: $19,99, Disponible: Si
+Titulo: 'Maus I', Autor: 'Art Spiegelman', Genero: 'Biográfico', Fecha Publicacion: '1986-01-01', Precio: $15,50, Disponible: Si
+Titulo: 'Sandman Vol. 1', Autor: 'Neil Gaiman', Genero: 'Fantasía Oscura', Fecha Publicacion: '1989-01-01', Precio: $24,95, Disponible: Si
+
+--- Informe de Usuarios ---
+ID Usuario: U002, Nombre: Juan Gomez
+ID Usuario: U001, Nombre: Ana Perez
