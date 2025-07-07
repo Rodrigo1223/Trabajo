@@ -1,0 +1,60 @@
+jul 07, 2025 4:35:30 P. M. gestionprimosconhilos.Main main
+INFO: Iniciando la aplicacion de gestion de numeros primos.
+jul 07, 2025 4:35:30 P. M. gestionprimosconhilos.Main main
+INFO: Pruebas de la clase PrimesList:
+jul 07, 2025 4:35:30 P. M. gestionprimosconhilos.Main main
+INFO: Es 7 primo? true
+jul 07, 2025 4:35:30 P. M. gestionprimosconhilos.Main main
+INFO: Es 10 primo? false
+jul 07, 2025 4:35:30 P. M. gestionprimosconhilos.Main main
+INFO: Numeros primos 2, 3, 5 agregados correctamente.
+jul 07, 2025 4:35:30 P. M. gestionprimosconhilos.Main main
+INFO: Correctamente atrapada la excepcion al intentar agregar un no primo: Solo se pueden agregar numeros primos a la lista.
+jul 07, 2025 4:35:30 P. M. gestionprimosconhilos.Main main
+INFO: Numero 3 removido.
+jul 07, 2025 4:35:30 P. M. gestionprimosconhilos.Main main
+INFO: Cantidad actual de numeros primos en la lista: 2
+jul 07, 2025 4:35:30 P. M. gestionprimosconhilos.Main main
+INFO: Lista actual de primos: [2, 5]
+jul 07, 2025 4:35:30 P. M. gestionprimosconhilos.Main main
+INFO: 
+Demostracion de programacion multihilo:
+jul 07, 2025 4:35:30 P. M. gestionprimosconhilos.Main main
+INFO: 
+--- Resultados de la operacion multihilo ---
+jul 07, 2025 4:35:30 P. M. gestionprimosconhilos.Main main
+INFO: Cantidad total de numeros primos encontrados en la lista: 1.231
+jul 07, 2025 4:35:30 P. M. gestionprimosconhilos.Main main
+INFO: Tiempo total de ejecución con hilos: 12 ms
+jul 07, 2025 4:35:30 P. M. gestionprimosconhilos.Main main
+INFO: Aplicacion finalizada.
+jul 07, 2025 4:46:45 P. M. gestionprimosconhilos.Main main
+INFO: Iniciando la aplicacion de gestion de numeros primos.
+jul 07, 2025 4:46:45 P. M. gestionprimosconhilos.Main main
+INFO: Pruebas de la clase PrimesList:
+jul 07, 2025 4:46:45 P. M. gestionprimosconhilos.Main main
+INFO: Es 7 primo? true
+jul 07, 2025 4:46:45 P. M. gestionprimosconhilos.Main main
+INFO: Es 10 primo? false
+jul 07, 2025 4:46:45 P. M. gestionprimosconhilos.Main main
+INFO: Numeros primos 2, 3, 5 agregados correctamente.
+jul 07, 2025 4:46:45 P. M. gestionprimosconhilos.Main main
+INFO: Correctamente atrapada la excepcion al intentar agregar un no primo: Solo se pueden agregar numeros primos a la lista.
+jul 07, 2025 4:46:45 P. M. gestionprimosconhilos.Main main
+INFO: Numero 3 removido.
+jul 07, 2025 4:46:45 P. M. gestionprimosconhilos.Main main
+INFO: Cantidad actual de numeros primos en la lista: 2
+jul 07, 2025 4:46:45 P. M. gestionprimosconhilos.Main main
+INFO: Lista actual de primos: [2, 5]
+jul 07, 2025 4:46:45 P. M. gestionprimosconhilos.Main main
+INFO: 
+Demostracion de programacion multihilo:
+jul 07, 2025 4:46:45 P. M. gestionprimosconhilos.Main main
+INFO: 
+--- Resultados de la operacion multihilo ---
+jul 07, 2025 4:46:45 P. M. gestionprimosconhilos.Main main
+INFO: Cantidad total de numeros primos encontrados en la lista: 1.231
+jul 07, 2025 4:46:45 P. M. gestionprimosconhilos.Main main
+INFO: Tiempo total de ejecución con hilos: 7 ms
+jul 07, 2025 4:46:45 P. M. gestionprimosconhilos.Main main
+INFO: Aplicacion finalizada.
