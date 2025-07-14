@@ -1,0 +1,52 @@
+Mensaje encriptado: Voto_Secreto_ID_2
+Código Primo utilizado: 2
+---
+Mensaje encriptado: Voto_Secreto_ID_3
+Código Primo utilizado: 3
+---
+Mensaje encriptado: Voto_Secreto_ID_5
+Código Primo utilizado: 5
+---
+Mensaje encriptado: Voto_Secreto_ID_7
+Código Primo utilizado: 7
+---
+Mensaje encriptado: Voto_Secreto_ID_11
+Código Primo utilizado: 11
+---
+Mensaje encriptado: Voto_Secreto_ID_13
+Código Primo utilizado: 13
+---
+Mensaje encriptado: Voto_Secreto_ID_17
+Código Primo utilizado: 17
+---
+Mensaje encriptado: Voto_Secreto_ID_19
+Código Primo utilizado: 19
+---
+Mensaje encriptado: Voto_Secreto_ID_2
+Código Primo utilizado: 2
+---
+Mensaje encriptado: Voto_Secreto_ID_3
+Código Primo utilizado: 3
+---
+Mensaje encriptado: Voto_Secreto_ID_5
+Código Primo utilizado: 5
+---
+Mensaje encriptado: Voto_Secreto_ID_7
+Código Primo utilizado: 7
+---
+Mensaje encriptado: Voto_Secreto_ID_11
+Código Primo utilizado: 11
+---
+Mensaje encriptado: Voto_Secreto_ID_13
+Código Primo utilizado: 13
+---
+Mensaje encriptado: Voto_Secreto_ID_17
+Código Primo utilizado: 17
+---
+Mensaje encriptado: Voto_Secreto_ID_19
+Código Primo utilizado: 19
+---
+Mensaje: "hola" | Codigo Primo: 557 | Timestamp: Fri Jul 11 17:33:31 GMT-04:00 2025
+Mensaje: "3" | Codigo Primo: 547 | Timestamp: Fri Jul 11 17:35:01 GMT-04:00 2025
+Mensaje: "hola" | Codigo Primo: 61 | Timestamp: Mon Jul 14 16:00:16 GMT-04:00 2025
+Mensaje: "hola" | Codigo Primo: 251 | Timestamp: Mon Jul 14 16:00:34 GMT-04:00 2025
